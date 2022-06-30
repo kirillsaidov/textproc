@@ -4,4 +4,4 @@ bin/
 lib/
 build/
 __internal/
-
+.ipynb_checkpoints
